@@ -4,3 +4,4 @@ dist/
 vs_code/
 .gitignore/
 .prettierrc/
+node_modules
