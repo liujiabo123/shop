@@ -1,0 +1,6 @@
+node_modules/
+.idea/
+dist/
+vs_code/
+.gitignore/
+.prettierrc/
