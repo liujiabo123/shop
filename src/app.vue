@@ -1,6 +1,11 @@
 <template>
-    <div>hello world1</div>
-    <div>test01</div>
+    <div>
+        test001
+        www.xiaodou.com
+        xiaodou.com
+        local.xiaodou.com
+        dfadsfasd
+    </div>
 </template>
 
 <script>
